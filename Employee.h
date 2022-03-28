@@ -44,7 +44,7 @@ class gardener : public Employee
        
     public:
         
-        string HasWater;
+        bool hasWater;
         
         void setTool(string tool)
         {
